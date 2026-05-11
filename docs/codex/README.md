@@ -2,7 +2,7 @@
 
 ## What is Codex?
 
-Codex CLI is a high-performance, Rust-based coding agent from OpenAI that runs in your terminal. It's an AI-powered coding assistant that can understand and modify code directly from the command line. Powered by the GPT-5.4 ecosystem, Codex CLI provides developers with a ultra-low latency, workflow-integrated way to interact with code.
+Codex CLI is a high-performance, Rust-based coding agent from OpenAI that runs in your terminal. It's an AI-powered coding assistant that can understand and modify code directly from the command line. Powered by the GPT-5.4 ecosystem, Codex CLI provides developers with an ultra-low latency, workflow-integrated way to interact with code.
 
 ## Core Philosophy
 
